@@ -10,4 +10,4 @@ function onChangeColor() {
   const newColor = getRandomHexColor()
   document.body.style.backgroundColor = newColor;
   textColor.textContent = newColor;
-};
+}
